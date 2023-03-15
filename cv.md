@@ -16,13 +16,35 @@ After 6 months as an account executive I seem to understand the US and EU custom
 __SKILLS__
 * HTML5/CSS3
 * JavaScript Basics
-* Bootstrap3
+* Bootstrap 5.2
 * GitHub
 * Flexible Box Layout
 * Responsive layouts
-* API Basics.
+* API Basics
 --------
+__LANGUAGES__
+Language      | Level
+:-------------:----:--------------------- :
+English         | Advanced (C1)
+German          | Pre-intermediate (B1)
+Polish          | Elementary (A1)
+Russian         | Native
+
 __CODE EXAMPLE__
+![Code example](assets/code_example.jpg)
+###### Will be replaced by a Codewars example in a while
+------
+__EDUCATION__
+### CanSheCode Inc, Montreal, Canada
+* April - June 2022 - Introduction to Web Development (HTML5, CSS3)
+![HTML/CSS Certficate](assets/html_cert.jpg)
+* July 2022 - Bootstrap 5
+![Bootstrap Certificate](assets/bootstrap_cert.jpg)
+* August 2022 - till now - JavaScript Basics
+### Minsk State Linguistic University
+PR, English and German Interpreter
+-----
+
 
 
 

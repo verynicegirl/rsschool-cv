@@ -1,18 +1,23 @@
 # MARIA MASKAEVA
-### Front-end Developer
+### Front-end Developer                 ![CV Photo](assets/cv_photo.jpeg)
 
-![CV Photo](assets/cv_photo.jpeg)
-=============
+========================================================
+
+## CONTACTS
 * ☎️ +375297066277                 
 * 📧 maria.maskaeva98@yandex.ru    
 * 🤯 Maria_Maskaeva#1747
 * 🤝 [LinkedIn](https://www.linkedin.com/in/maria-maskaeva-16389b73/)
-=======
+
+=============================================================
+
 ## PROFILE 
 After 10 years in logistics I've learnt how to work under pressure, with strict deadlines and active team cooperation.
 After 10 years as a mother I've understood how to learn and move fast and what is more - how to adapt to a fast-changing surrounding.
 After 6 months as an account executive I seem to understand the US and EU customers with all their needs and worries.
-=========
+
+==================================================================
+
 ## SKILLS
 * HTML5/CSS3
 * JavaScript Basics
@@ -21,8 +26,11 @@ After 6 months as an account executive I seem to understand the US and EU custom
 * Flexible Box Layout
 * Responsive layouts
 * API Basics
-=======
+
+=======================================
+
 ## LANGUAGES
+
 :Language:      | :Level:
 ---------------------------------- 
 English         | Advanced (C1)
@@ -30,10 +38,14 @@ German          | Pre-intermediate (B1)
 Polish          | Elementary (A1)
 Russian         | Native
 
+=======================================================
+
 ## CODE EXAMPLE 
 ![Code example](assets/code_example.jpg)
 ###### Will be replaced by a Codewars example in a while
-====
+
+======================================
+
 ## EDUCATION
 ### CanSheCode Inc, Montreal, Canada
 * April - June 2022 - Introduction to Web Development (HTML5, CSS3)
@@ -43,7 +55,9 @@ Russian         | Native
 * August 2022 - till now - JavaScript Basics
 ### Minsk State Linguistic University
 PR, English and German Interpreter
-=====
+
+================================
+
 ## WORK EXPERIENCE
 
 1. April - October 2021 
@@ -66,7 +80,7 @@ PR, English and German Interpreter
         - payment control;
         - business trips;
 
-======
+=======================================
 
 
 

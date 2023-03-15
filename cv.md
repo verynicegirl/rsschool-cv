@@ -1,5 +1,5 @@
 # MARIA MASKAEVA
-### Front-end Developer                 ![CV Photo](assets/cv_photo.jpeg)
+### Front-end Developer                                 ![CV Photo](assets/cv_photo.jpeg)
 
 
 

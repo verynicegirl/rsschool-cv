@@ -27,24 +27,25 @@ After 6 months as an account executive I seem to understand the US and EU custom
 * Responsive layouts
 * API Basics
 
-=======================================
+
+===================================================================
 
 ## LANGUAGES
 
-:Language:      | :Level:
----------------------------------- 
-English         | Advanced (C1)
-German          | Pre-intermediate (B1)
-Polish          | Elementary (A1)
-Russian         | Native
+* English - Advanced (C1)
+* German - Pre-intermediate (B1)
+* Polish - Elementary (A1)
+* Russian - Native
 
-=======================================================
+
+==================================================================
 
 ## CODE EXAMPLE 
 ![Code example](assets/code_example.jpg)
 ###### Will be replaced by a Codewars example in a while
 
-======================================
+
+=============================================================
 
 ## EDUCATION
 ### CanSheCode Inc, Montreal, Canada
@@ -53,10 +54,12 @@ Russian         | Native
 * July 2022 - Bootstrap 5
 ![Bootstrap Certificate](assets/bootstrap_cert.jpg)
 * August 2022 - till now - JavaScript Basics
+
 ### Minsk State Linguistic University
 PR, English and German Interpreter
 
-================================
+
+==============================================================
 
 ## WORK EXPERIENCE
 
@@ -80,7 +83,8 @@ PR, English and German Interpreter
         - payment control;
         - business trips;
 
-=======================================
+
+==============================================================
 
 
 

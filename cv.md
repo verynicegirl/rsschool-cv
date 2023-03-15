@@ -1,7 +1,7 @@
 # MARIA MASKAEVA
 ### Front-end Developer                 ![CV Photo](assets/cv_photo.jpeg)
 
-========================================================
+
 
 ## CONTACTS
 * ☎️ +375297066277                 
@@ -9,14 +9,14 @@
 * 🤯 Maria_Maskaeva#1747
 * 🤝 [LinkedIn](https://www.linkedin.com/in/maria-maskaeva-16389b73/)
 
-=============================================================
+
 
 ## PROFILE 
 After 10 years in logistics I've learnt how to work under pressure, with strict deadlines and active team cooperation.
 After 10 years as a mother I've understood how to learn and move fast and what is more - how to adapt to a fast-changing surrounding.
 After 6 months as an account executive I seem to understand the US and EU customers with all their needs and worries.
 
-==================================================================
+
 
 ## SKILLS
 * HTML5/CSS3
@@ -28,7 +28,7 @@ After 6 months as an account executive I seem to understand the US and EU custom
 * API Basics
 
 
-===================================================================
+
 
 ## LANGUAGES
 
@@ -38,14 +38,14 @@ After 6 months as an account executive I seem to understand the US and EU custom
 * Russian - Native
 
 
-==================================================================
+
 
 ## CODE EXAMPLE 
 ![Code example](assets/code_example.jpg)
 ###### Will be replaced by a Codewars example in a while
 
 
-=============================================================
+
 
 ## EDUCATION
 ### CanSheCode Inc, Montreal, Canada
@@ -59,7 +59,7 @@ After 6 months as an account executive I seem to understand the US and EU custom
 PR, English and German Interpreter
 
 
-==============================================================
+
 
 ## WORK EXPERIENCE
 
@@ -84,7 +84,7 @@ PR, English and German Interpreter
         - business trips;
 
 
-==============================================================
+
 
 
 

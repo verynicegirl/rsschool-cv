@@ -1,2 +1,2 @@
 # rsschool-cv
-Creating my CV for RS School
+https://verynicegirl.github.io/rsschool-cv/cv

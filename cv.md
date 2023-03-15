@@ -3,17 +3,17 @@
 
 ![CV Photo](assets/cv_photo.jpeg)
 =============
-* ☎️ +375297066277;                  
-* 📧 maria.maskaeva98@yandex.ru;    
-* 🤯 Maria_Maskaeva#1747;
-* 🤝 [LinkedIn](https://www.linkedin.com/in/maria-maskaeva-16389b73/);
+* ☎️ +375297066277                 
+* 📧 maria.maskaeva98@yandex.ru    
+* 🤯 Maria_Maskaeva#1747
+* 🤝 [LinkedIn](https://www.linkedin.com/in/maria-maskaeva-16389b73/)
 =======
-__PROFILE__ 
+## PROFILE 
 After 10 years in logistics I've learnt how to work under pressure, with strict deadlines and active team cooperation.
 After 10 years as a mother I've understood how to learn and move fast and what is more - how to adapt to a fast-changing surrounding.
 After 6 months as an account executive I seem to understand the US and EU customers with all their needs and worries.
 =========
-__SKILLS__
+## SKILLS
 * HTML5/CSS3
 * JavaScript Basics
 * Bootstrap 5.2
@@ -22,7 +22,7 @@ __SKILLS__
 * Responsive layouts
 * API Basics
 =======
-__LANGUAGES__
+## LANGUAGES
 :Language:      | :Level:
 ---------------------------------- 
 English         | Advanced (C1)
@@ -30,11 +30,11 @@ German          | Pre-intermediate (B1)
 Polish          | Elementary (A1)
 Russian         | Native
 
-__CODE EXAMPLE__
+## CODE EXAMPLE 
 ![Code example](assets/code_example.jpg)
 ###### Will be replaced by a Codewars example in a while
 ====
-__EDUCATION__
+## EDUCATION
 ### CanSheCode Inc, Montreal, Canada
 * April - June 2022 - Introduction to Web Development (HTML5, CSS3)
 ![HTML/CSS Certficate](assets/html_cert.jpg)
@@ -44,7 +44,7 @@ __EDUCATION__
 ### Minsk State Linguistic University
 PR, English and German Interpreter
 =====
-__WORK EXPERIENCE__
+## WORK EXPERIENCE
 
 1. April - October 2021 
     + Company:_Syberry CIS_

@@ -1,0 +1,14 @@
+
+header,
+section,
+footer {
+    display: flex;
+}
+
+.column_left {
+    align-self: self-start;
+}
+
+.column_right {
+    align-self: self-end;
+}

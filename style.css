@@ -1,1 +1,128 @@
+:root {
+--main-color: #EEEEEE;
+--main-background: #393E46; 
+--color-accent: #00ADB5;
+--font-main: 'Belanosima', sans-serif;
+
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--main-background);
+    white-space: nowrap;
+}
+
+nav ul li a:hover {
+    cursor: pointer;
+    color: var(--color-accent);
+
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--font-main);
+}
+
+.column_left {
+    width: 30%;
+    padding-left: 50px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    background-color: var(--main-background);
+    color: var(--main-color);
+}
+
+
+
+.column_right {
+    width: 60%;
+    padding-right: 30px;
+}
+
+.column_right_manual {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: var(--color-accent);
+    margin: 0;
+    color: var(--main-color);
+    font-family: var(--font-main);
+    font-size: 1.6rem;
+}
+
+.column_right_manual div h4 {
+    color: var(--main-background);
+    font-size: 1.2em;
+}
+
+
+.wrapper__logo {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.contact__list {
+    list-style-type: none;
+}
+
+
+.title__company {
+    color: var(--color-accent);
+}
+
+.school_modify {
+    color: var(--main-background);
+    text-decoration: none;
+}
+
+.school_modify:hover {
+    color: var(--color-accent);
+}
+
+.anchor_focus {
+    color: var(--color-accent);
+}
+.pic__certificate {
+    width: 30%;
+}
+
+.pic__logo {
+    width: 70%;
+}
+
+h2 {
+    color: var(--color-accent);
+    font-weight: 800;
+}
+
+footer div a {
+    text-decoration: none;
+    font-family: var(--font-main);
+    color:var(--main-color)
+}
+
 
